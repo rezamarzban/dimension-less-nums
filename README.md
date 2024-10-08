@@ -114,3 +114,41 @@ Dimension less numbers in various engineering fields
 
 4. **General Empirical Correlation:**
    - Depending on the specific geometry and flow conditions, various empirical correlations can be derived based on experimental data.
+
+## Online available references 
+
+Here are some online references that contain information about dimensionless numbers in chemical engineering and fluid mechanics:
+
+1. **MIT OpenCourseWare - Introduction to Fluid Mechanics:**
+   - [Fluid Mechanics](https://ocw.mit.edu/courses/mechanical-engineering/2-001-science-of-fluid-mechanics-fall-2004/)
+   - This course includes lecture notes and resources discussing fluid mechanics principles, including dimensionless numbers like Reynolds and Nusselt numbers.
+
+2. **Engineering Toolbox - Dimensionless Numbers:**
+   - [Dimensionless Numbers](https://www.engineeringtoolbox.com/dimensionless-numbers-d_952.html)
+   - This website provides a summary of various dimensionless numbers commonly used in engineering applications, including their definitions and relevance.
+
+3. **University of Cambridge - Lecture Notes on Fluid Mechanics:**
+   - [Lecture Notes](http://www.dspace.cam.ac.uk/handle/1810/324165)
+   - These notes cover essential fluid mechanics concepts, including a section on dimensionless numbers.
+
+4. **NPTEL - Heat Transfer:**
+   - [Heat Transfer Course](https://nptel.ac.in/courses/103/105/103105135/)
+   - The National Programme on Technology Enhanced Learning (NPTEL) offers a course that includes video lectures and materials discussing heat transfer and related dimensionless numbers.
+
+5. **Wolfram Demonstrations Project - Dimensionless Numbers:**
+   - [Dimensionless Numbers](http://demonstrations.wolfram.com/DimensionlessNumbers/)
+   - This project provides interactive demonstrations related to various dimensionless numbers and their applications.
+
+6. **Coursera - Fluid Mechanics for Engineers:**
+   - [Fluid Mechanics for Engineers](https://www.coursera.org/learn/fluid-mechanics-engineers)
+   - This course includes discussions on dimensionless numbers in the context of fluid mechanics.
+
+7. **University of Florida - Chemical Engineering Courses:**
+   - [Chemical Engineering Resources](https://www.che.ufl.edu/che-course-syllabi/)
+   - This site provides links to various chemical engineering courses, some of which discuss dimensionless numbers relevant to transport phenomena.
+
+8. **ResearchGate - Publications on Dimensionless Numbers:**
+   - [ResearchGate](https://www.researchgate.net/)
+   - A platform where you can search for academic papers and publications related to dimensionless numbers in chemical engineering and fluid mechanics.
+
+These online resources can provide valuable insights and detailed explanations about dimensionless numbers and their applications in engineering.
