@@ -30,32 +30,37 @@ Dimension less numbers in various engineering fields
    **$Sh = f(Re, Sc)$**
    Mass transfer equivalent of the Nusselt number.
 
-7. **Froude Number (Fr):**
+7. **Stanton Number (St):**
+   **$St = \dfrac{h}{\rho c_p u}$**
+   **$St = \dfrac{Nu}{Re \cdot Pr}$**
+   Describes the heat transfer coefficient relative to the convective heat transfer.
+
+8. **Froude Number (Fr):**
    **$Fr = \dfrac{u^2}{g L}$**
    Compares inertial forces to gravitational forces.
 
-8. **Weber Number (We):**
+9. **Weber Number (We):**
    **$We = \dfrac{\rho u^2 L}{\sigma}$**
    Ratio of inertial forces to surface tension forces.
 
-9. **Damköhler Number (Da):**
-   **$Da = \dfrac{r_{\text{reaction}}}{r_{\text{diffusion}}}$**
-   Describes the ratio of reaction rate to transport rate.
+10. **Damköhler Number (Da):**
+    **$Da = \dfrac{r_{\text{reaction}}}{r_{\text{diffusion}}}$**
+    Describes the ratio of reaction rate to transport rate.
 
-10. **Biot Number (Bi):**
+11. **Biot Number (Bi):**
     **$Bi = \dfrac{h L}{k}$**
     Ratio of internal thermal resistance to surface thermal resistance.
 
-11. **Grashof Number (Gr):**
+12. **Grashof Number (Gr):**
     **$Gr = \dfrac{g \beta \Delta T L^3}{\nu^2}$**
     Characterizes natural convection based on buoyancy and viscous forces.
 
-12. **Rayleigh Number (Ra):**
+13. **Rayleigh Number (Ra):**
     **$Ra = Gr \cdot Pr = \dfrac{g \beta \Delta T L^3}{\nu \alpha}$**
     **$Ra = f(Gr, Pr)$**
     Describes natural convection, indicating the transition from conduction to convection. **$\alpha$** is thermal diffusivity, **$\nu$** is kinematic viscosity.
 
-13. **Lewis Number (Le):**
+14. **Lewis Number (Le):**
     **$Le = \dfrac{\alpha}{D} = \dfrac{Sc}{Pr}$**
     Ratio of thermal diffusivity to mass diffusivity.
     
