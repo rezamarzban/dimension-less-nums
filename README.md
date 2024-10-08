@@ -59,3 +59,53 @@ Dimension less numbers in various engineering fields
     **$Le = \dfrac{\alpha}{D} = \dfrac{Sc}{Pr}$**
     Ratio of thermal diffusivity to mass diffusivity.
     
+## Nusselt number 
+
+1. **Nusselt Number (Nu) for Forced Convection:**
+   **$Nu = f(Re, Pr)$**
+   - Common correlations:
+     - For circular pipes:  
+       **$Nu = 0.023 Re^{0.8} Pr^{n}$** (where **$n \approx 0.3$** for heating and **$n \approx 0.3$** for cooling).
+     - For flow over a flat plate:  
+       **$Nu = \dfrac{0.332 Re^{1/2} Pr^{1/3}}{L}$**.
+
+2. **Nusselt Number (Nu) for Free Convection:**
+   **$Nu = f(Ra, Pr)$**
+   - Common correlations:
+     - For vertical plates:  
+       **$Nu = 0.68 + \dfrac{0.67 Ra^{1/4}}{(1 + (0.492/Pr)^{9/16})^{4/9}}$**.
+     - For horizontal plates:  
+       **$Nu = 0.54 Ra^{1/4}$** (for **$Ra < 10^9$**).
+
+3. **Nusselt Number (Nu) for Combined Convection:**
+   **$Nu = f(Re, Pr, Ra)$**
+   - When both forced and free convection are present, correlations can become complex and may involve both **$Re$** and **$Ra$**.
+
+4. **General Empirical Correlation:**
+   - A general expression can be derived depending on the specific geometry and flow conditions.
+
+## Sherwood number 
+
+1. **Sherwood Number (Sh) for Forced Convection:**
+   **$Sh = f(Re, Sc)$**
+   - Common correlations:
+     - For flow over a flat plate:  
+       **$Sh = 0.332 Re^{1/2} Sc^{1/3}$**.
+     - For circular pipes:  
+       **$Sh = 0.023 Re^{0.8} Sc^{n}$** (where **$n \approx 0.3$**).
+
+2. **Sherwood Number (Sh) for Free Convection:**
+   **$Sh = f(Gr, Sc)$**
+   - Common correlations:
+     - For vertical plates:  
+       **$Sh = 0.68 + \dfrac{0.67 Gr^{1/4}}{(1 + (0.492/Sc)^{9/16})^{4/9}}$**.
+     - For horizontal plates:  
+       **$Sh = 0.54 Gr^{1/4}$** (for **$Gr < 10^9$**).
+
+3. **Sherwood Number (Sh) for Mass Transfer in Packed Beds:**
+   **$Sh = f(Re, Sc)$**
+   - A common correlation for packed beds:  
+     **$Sh = 2 + 0.6 Re^{1/2} Sc^{1/3}$**.
+
+4. **General Empirical Correlation:**
+   - Depending on the specific geometry and flow conditions, various empirical correlations can be derived based on experimental data.
