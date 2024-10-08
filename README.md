@@ -63,6 +63,18 @@ Dimension less numbers in various engineering fields
 14. **Lewis Number (Le):**
     **$Le = \dfrac{\alpha}{D} = \dfrac{Sc}{Pr}$**
     Ratio of thermal diffusivity to mass diffusivity.
+
+15. **Euler Number (Eu):**
+    **$Eu = \dfrac{p}{\rho u^2}$**
+    Ratio of pressure forces to inertial forces.
+
+16. **Eckert Number (Ec):**
+    **$Ec = \dfrac{u^2}{c_p T}$**
+    Relates kinetic energy to thermal energy, often used in compressible flow.
+
+17. **Strouhal Number (St):**
+    **$St = \dfrac{f L}{u}$**
+    Describes oscillating flow, where **$f$** is the frequency of oscillation, **$L$** is characteristic length, and **$u$** is velocity.
     
 ## Nusselt number 
 
