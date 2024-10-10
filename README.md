@@ -1,7 +1,7 @@
 # dimension-less-nums
 Dimension less numbers in various engineering fields 
 
-<video controls src="power_plant.mp4"></video>
+https://github.com/user-attachments/assets/fd886d3b-d867-47e0-91c6-5ea16a73e726
 
 1. **Reynolds Number (Re):**
    **$Re = \dfrac{\rho u L}{\mu}$**
