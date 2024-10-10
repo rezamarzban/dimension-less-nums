@@ -1,8 +1,6 @@
 # dimension-less-nums
 Dimension less numbers in various engineering fields 
 
-https://github.com/rezamarzban/dimension-less-nums/raw/refs/heads/main/power_plant.mp4
-
 1. **Reynolds Number (Re):**
    **$Re = \dfrac{\rho u L}{\mu}$**
    Characterizes flow regime (laminar or turbulent).
